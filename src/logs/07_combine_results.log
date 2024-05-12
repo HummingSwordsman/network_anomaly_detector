@@ -1,0 +1,16 @@
+2024-05-02 01:27:13 WARNING  !!! This step takes about 0 min to complete !!!
+2024-05-02 01:27:13 INFO     ===== Combine stats: ['F14_S04_R_5_000_000' 'F14_S16_R_5_000_000' 'F17_S04_R_5_000_000'
+ 'F17_S16_R_5_000_000' 'F18_S04_R_5_000_000' 'F18_S16_R_5_000_000'
+ 'F19_S04_R_5_000_000']
+2024-05-02 01:27:13 INFO     ===== Load json files: 
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     Files found: 0
+2024-05-02 01:27:13 INFO     ===== Json files loaded in 0.0024864673614501953 seconds = 4.144112269083659e-05 minutes ---
+2024-05-02 01:27:13 INFO     ===== Export xlsx file: E:\machine-learning\datasets\iot23\4_experiments_v2\S04_S16_all_scores.xlsx
+2024-05-02 01:27:13 INFO     ===== Xlsx file in 0.012187957763671875 seconds = 0.00020313262939453125 minutes ---
+2024-05-02 01:27:13 INFO     ===== Stats combined in 0.01567244529724121 seconds = 0.00026120742162068683 minutes ---

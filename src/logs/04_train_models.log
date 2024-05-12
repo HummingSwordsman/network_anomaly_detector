@@ -1,0 +1,236 @@
+2024-05-01 00:33:42 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 00:33:42 INFO     -----> Load data 
+2024-05-01 00:33:54 INFO     -----> Data loaded in 12.140511989593506 seconds = 0.2023418664932251 minutes ---
+2024-05-01 00:33:54 INFO     =====> Train DecisionTree . . .
+2024-05-01 00:34:50 INFO     =====> Training of DecisionTree finished in 56.39958357810974 seconds = 0.9399930596351623 minutes ---
+2024-05-01 00:34:50 INFO     =====> Train GaussianNB . . .
+2024-05-01 00:35:00 INFO     =====> Training of GaussianNB finished in 9.12107539176941 seconds = 0.1520179231961568 minutes ---
+2024-05-01 00:35:00 INFO     =====> Train LogisticRegression . . .
+2024-05-01 00:37:48 INFO     =====> Training of LogisticRegression finished in 168.20289540290833 seconds = 2.803381590048472 minutes ---
+2024-05-01 00:37:48 INFO     =====> Train RandomForest . . .
+2024-05-01 01:07:09 INFO     =====> Training of RandomForest finished in 1760.738896369934 seconds = 29.345648272832236 minutes ---
+2024-05-01 01:07:09 INFO     =====> Train SVC_linear . . .
+2024-05-01 01:33:20 INFO     =====> Training of SVC_linear finished in 1570.8432064056396 seconds = 26.18072010676066 minutes ---
+2024-05-01 01:33:20 INFO     -----> Training of all models finished in 3577.669239282608 seconds = 59.627820654710135 minutes ---
+2024-05-01 01:33:20 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models//
+2024-05-01 01:33:20 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 01:33:20 INFO     -----> Load data 
+2024-05-01 01:33:33 INFO     -----> Data loaded in 12.857620000839233 seconds = 0.2142936666806539 minutes ---
+2024-05-01 01:33:33 INFO     =====> Train DecisionTree . . .
+2024-05-01 01:33:56 INFO     =====> Training of DecisionTree finished in 23.66155982017517 seconds = 0.39435933033625287 minutes ---
+2024-05-01 01:33:56 INFO     =====> Train GaussianNB . . .
+2024-05-01 01:34:03 INFO     =====> Training of GaussianNB finished in 7.158345937728882 seconds = 0.1193057656288147 minutes ---
+2024-05-01 01:34:03 INFO     =====> Train LogisticRegression . . .
+2024-05-01 01:36:52 INFO     =====> Training of LogisticRegression finished in 168.90493750572205 seconds = 2.815082291762034 minutes ---
+2024-05-01 01:36:52 INFO     =====> Train RandomForest . . .
+2024-05-01 01:47:41 INFO     =====> Training of RandomForest finished in 648.3379638195038 seconds = 10.805632730325064 minutes ---
+2024-05-01 01:47:41 INFO     =====> Train SVC_linear . . .
+2024-05-01 02:06:53 INFO     =====> Training of SVC_linear finished in 1151.9250810146332 seconds = 19.198751350243885 minutes ---
+2024-05-01 02:06:53 INFO     -----> Training of all models finished in 2012.8824784755707 seconds = 33.54804130792618 minutes ---
+2024-05-01 02:06:53 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F17_S04_R_5_000_000//models//
+2024-05-01 02:06:53 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 02:06:53 INFO     -----> Load data 
+2024-05-01 02:07:05 INFO     -----> Data loaded in 12.765116453170776 seconds = 0.2127519408861796 minutes ---
+2024-05-01 02:07:05 INFO     =====> Train DecisionTree . . .
+2024-05-01 02:07:52 INFO     =====> Training of DecisionTree finished in 46.832221031188965 seconds = 0.7805370171864827 minutes ---
+2024-05-01 02:07:52 INFO     =====> Train GaussianNB . . .
+2024-05-01 02:08:00 INFO     =====> Training of GaussianNB finished in 7.4210121631622314 seconds = 0.12368353605270385 minutes ---
+2024-05-01 02:08:00 INFO     =====> Train LogisticRegression . . .
+2024-05-01 02:10:57 INFO     =====> Training of LogisticRegression finished in 177.47267246246338 seconds = 2.9578778743743896 minutes ---
+2024-05-01 02:10:57 INFO     =====> Train RandomForest . . .
+2024-05-01 02:40:08 INFO     =====> Training of RandomForest finished in 1750.8690655231476 seconds = 29.18115109205246 minutes ---
+2024-05-01 02:40:08 INFO     =====> Train SVC_linear . . .
+2024-05-01 03:12:00 INFO     =====> Training of SVC_linear finished in 1912.1919260025024 seconds = 31.86986543337504 minutes ---
+2024-05-01 03:12:00 INFO     -----> Training of all models finished in 3907.6143884658813 seconds = 65.12690647443135 minutes ---
+2024-05-01 03:12:00 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F18_S04_R_5_000_000//models//
+2024-05-01 03:12:00 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 03:12:00 INFO     -----> Load data 
+2024-05-01 03:12:13 INFO     -----> Data loaded in 12.772334098815918 seconds = 0.2128722349802653 minutes ---
+2024-05-01 03:12:13 INFO     =====> Train DecisionTree . . .
+2024-05-01 03:12:58 INFO     =====> Training of DecisionTree finished in 44.445528745651245 seconds = 0.7407588124275207 minutes ---
+2024-05-01 03:12:58 INFO     =====> Train GaussianNB . . .
+2024-05-01 03:13:06 INFO     =====> Training of GaussianNB finished in 8.030226707458496 seconds = 0.13383711179097493 minutes ---
+2024-05-01 03:13:06 INFO     =====> Train LogisticRegression . . .
+2024-05-01 03:16:03 INFO     =====> Training of LogisticRegression finished in 177.77229475975037 seconds = 2.962871579329173 minutes ---
+2024-05-01 03:16:03 INFO     =====> Train RandomForest . . .
+2024-05-01 03:33:50 INFO     =====> Training of RandomForest finished in 1066.731968164444 seconds = 17.778866136074065 minutes ---
+2024-05-01 03:33:50 INFO     =====> Train SVC_linear . . .
+2024-05-01 04:16:57 INFO     =====> Training of SVC_linear finished in 2586.8354036808014 seconds = 43.11392339468002 minutes ---
+2024-05-01 04:16:57 INFO     -----> Training of all models finished in 3896.6509330272675 seconds = 64.94418221712112 minutes ---
+2024-05-01 04:16:57 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F19_S04_R_5_000_000//models//
+2024-05-01 04:16:57 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 04:16:57 INFO     -----> Load data 
+2024-05-01 04:17:11 INFO     -----> Data loaded in 13.95861554145813 seconds = 0.2326435923576355 minutes ---
+2024-05-01 04:17:11 INFO     =====> Train DecisionTree . . .
+2024-05-01 04:18:16 INFO     =====> Training of DecisionTree finished in 64.77187180519104 seconds = 1.079531196753184 minutes ---
+2024-05-01 04:18:16 INFO     =====> Train GaussianNB . . .
+2024-05-01 04:18:22 INFO     =====> Training of GaussianNB finished in 6.51967191696167 seconds = 0.10866119861602783 minutes ---
+2024-05-01 04:18:22 INFO     =====> Train LogisticRegression . . .
+2024-05-01 04:26:14 INFO     =====> Training of LogisticRegression finished in 471.5209662914276 seconds = 7.858682771523793 minutes ---
+2024-05-01 04:26:14 INFO     =====> Train RandomForest . . .
+2024-05-01 05:01:47 INFO     =====> Training of RandomForest finished in 2133.189050912857 seconds = 35.55315084854762 minutes ---
+2024-05-01 05:01:47 INFO     =====> Train SVC_linear . . .
+2024-05-01 05:48:32 INFO     =====> Training of SVC_linear finished in 2804.2031106948853 seconds = 46.73671851158142 minutes ---
+2024-05-01 05:48:32 INFO     -----> Training of all models finished in 5494.380609035492 seconds = 91.57301015059153 minutes ---
+2024-05-01 05:48:32 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S16_R_5_000_000//models//
+2024-05-01 05:48:32 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 05:48:32 INFO     -----> Load data 
+2024-05-01 05:48:45 INFO     -----> Data loaded in 13.111875057220459 seconds = 0.21853125095367432 minutes ---
+2024-05-01 05:48:45 INFO     =====> Train DecisionTree . . .
+2024-05-01 05:49:11 INFO     =====> Training of DecisionTree finished in 26.081773042678833 seconds = 0.43469621737798053 minutes ---
+2024-05-01 05:49:11 INFO     =====> Train GaussianNB . . .
+2024-05-01 05:49:18 INFO     =====> Training of GaussianNB finished in 7.486138105392456 seconds = 0.1247689684232076 minutes ---
+2024-05-01 05:49:18 INFO     =====> Train LogisticRegression . . .
+2024-05-01 08:22:12 INFO     =====> Training of LogisticRegression finished in 9173.929281711578 seconds = 152.89882136185963 minutes ---
+2024-05-01 08:22:12 INFO     =====> Train RandomForest . . .
+2024-05-01 08:59:06 INFO     =====> Training of RandomForest finished in 2214.1721093654633 seconds = 36.902868489424385 minutes ---
+2024-05-01 08:59:07 INFO     =====> Train SVC_linear . . .
+2024-05-01 09:43:05 INFO     =====> Training of SVC_linear finished in 2638.486695289612 seconds = 43.974778254826866 minutes ---
+2024-05-01 09:43:05 INFO     -----> Training of all models finished in 14073.389922380447 seconds = 234.5564987063408 minutes ---
+2024-05-01 09:43:05 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F17_S16_R_5_000_000//models//
+2024-05-01 09:43:05 INFO     -----> Train 5 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'LogisticRegression': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', LogisticRegression())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 09:43:05 INFO     -----> Load data 
+2024-05-01 09:43:21 INFO     -----> Data loaded in 15.77492880821228 seconds = 0.2629154801368713 minutes ---
+2024-05-01 09:43:21 INFO     =====> Train DecisionTree . . .
+2024-05-01 09:44:16 INFO     =====> Training of DecisionTree finished in 55.27490186691284 seconds = 0.9212483644485474 minutes ---
+2024-05-01 09:44:16 INFO     =====> Train GaussianNB . . .
+2024-05-01 09:44:24 INFO     =====> Training of GaussianNB finished in 8.233721494674683 seconds = 0.13722869157791137 minutes ---
+2024-05-01 09:44:24 INFO     =====> Train LogisticRegression . . .
+2024-05-01 09:53:14 INFO     =====> Training of LogisticRegression finished in 529.543297290802 seconds = 8.825721621513367 minutes ---
+2024-05-01 09:53:14 INFO     =====> Train RandomForest . . .
+2024-05-01 10:34:29 INFO     =====> Training of RandomForest finished in 2475.238169193268 seconds = 41.25396948655446 minutes ---
+2024-05-01 10:34:29 INFO     =====> Train SVC_linear . . .
+2024-05-01 11:04:17 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:04:17 INFO     -----> Load data 
+2024-05-01 11:04:45 INFO     -----> Data loaded in 28.067883729934692 seconds = 0.46779806216557823 minutes ---
+2024-05-01 11:04:45 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:04:45 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:04:45 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:04:45 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:04:45 INFO     -----> Training of all models finished in 28.13097357749939 seconds = 0.4688495596249898 minutes ---
+2024-05-01 11:04:46 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models//
+2024-05-01 11:04:46 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:04:46 INFO     -----> Load data 
+2024-05-01 11:05:04 INFO     -----> Data loaded in 17.959444999694824 seconds = 0.29932408332824706 minutes ---
+2024-05-01 11:05:04 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:05:04 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:05:04 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:05:04 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:05:04 INFO     -----> Training of all models finished in 17.959444999694824 seconds = 0.29932408332824706 minutes ---
+2024-05-01 11:05:04 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F17_S04_R_5_000_000//models//
+2024-05-01 11:05:04 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:05:04 INFO     -----> Load data 
+2024-05-01 11:05:18 INFO     -----> Data loaded in 13.83470368385315 seconds = 0.23057839473088582 minutes ---
+2024-05-01 11:05:18 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:05:18 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:05:18 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:05:18 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:05:18 INFO     -----> Training of all models finished in 13.83470368385315 seconds = 0.23057839473088582 minutes ---
+2024-05-01 11:05:18 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F18_S04_R_5_000_000//models//
+2024-05-01 11:05:18 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:05:18 INFO     -----> Load data 
+2024-05-01 11:05:31 INFO     -----> Data loaded in 12.56430721282959 seconds = 0.20940512021382648 minutes ---
+2024-05-01 11:05:31 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:05:31 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:05:31 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:05:31 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:05:31 INFO     -----> Training of all models finished in 12.56430721282959 seconds = 0.20940512021382648 minutes ---
+2024-05-01 11:05:31 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F19_S04_R_5_000_000//models//
+2024-05-01 11:05:31 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:05:31 INFO     -----> Load data 
+2024-05-01 11:05:43 INFO     -----> Data loaded in 12.598527193069458 seconds = 0.2099754532178243 minutes ---
+2024-05-01 11:05:43 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:05:43 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:05:43 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:05:43 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:05:43 INFO     -----> Training of all models finished in 12.605621337890625 seconds = 0.21009368896484376 minutes ---
+2024-05-01 11:05:44 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S16_R_5_000_000//models//
+2024-05-01 11:05:44 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:05:44 INFO     -----> Load data 
+2024-05-01 11:05:58 INFO     -----> Data loaded in 14.054497718811035 seconds = 0.23424162864685058 minutes ---
+2024-05-01 11:05:58 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:05:58 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:05:58 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:05:58 WARNING  ^^^^^ Model SVC_linear already exists! Skip training...
+2024-05-01 11:05:58 INFO     -----> Training of all models finished in 14.054497718811035 seconds = 0.23424162864685058 minutes ---
+2024-05-01 11:05:58 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F17_S16_R_5_000_000//models//
+2024-05-01 11:05:58 INFO     -----> Train 4 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())]), 'GaussianNB': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', GaussianNB())]), 'RandomForest': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', RandomForestClassifier())]), 'SVC_linear': Pipeline(steps=[('normalization', MinMaxScaler()), ('classifier', LinearSVC())])}
+2024-05-01 11:05:58 INFO     -----> Load data 
+2024-05-01 11:06:11 INFO     -----> Data loaded in 13.058772087097168 seconds = 0.21764620145161948 minutes ---
+2024-05-01 11:06:11 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-01 11:06:11 WARNING  ^^^^^ Model GaussianNB already exists! Skip training...
+2024-05-01 11:06:11 WARNING  ^^^^^ Model RandomForest already exists! Skip training...
+2024-05-01 11:06:11 INFO     =====> Train SVC_linear . . .
+2024-05-02 01:23:24 INFO     -----> Train 1 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())])}
+2024-05-02 01:23:24 INFO     -----> Load data 
+2024-05-02 01:23:54 INFO     -----> Data loaded in 29.530871391296387 seconds = 0.4921811898549398 minutes ---
+2024-05-02 01:23:54 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-02 01:23:54 INFO     -----> Training of all models finished in 29.54387092590332 seconds = 0.4923978487650553 minutes ---
+2024-05-02 01:23:54 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models//
+2024-05-02 01:23:54 INFO     -----> Train 1 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())])}
+2024-05-02 01:23:54 INFO     -----> Load data 
+2024-05-02 01:24:15 INFO     -----> Data loaded in 20.30937671661377 seconds = 0.3384896119435628 minutes ---
+2024-05-02 01:24:15 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-02 01:24:15 INFO     -----> Training of all models finished in 20.312371730804443 seconds = 0.3385395288467407 minutes ---
+2024-05-02 01:24:15 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F17_S04_R_5_000_000//models//
+2024-05-02 01:24:15 INFO     -----> Train 1 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())])}
+2024-05-02 01:24:15 INFO     -----> Load data 
+2024-05-02 01:24:32 INFO     -----> Data loaded in 17.12015700340271 seconds = 0.2853359500567118 minutes ---
+2024-05-02 01:24:32 WARNING  ^^^^^ Model DecisionTree already exists! Skip training...
+2024-05-02 01:24:32 INFO     -----> Training of all models finished in 17.122098922729492 seconds = 0.28536831537882484 minutes ---
+2024-05-02 01:24:32 INFO     ****** Experiment models are in E:\machine-learning\datasets\iot23\4_experiments_v2\F18_S04_R_5_000_000//models//
+2024-05-02 01:24:32 INFO     -----> Train 1 models : {'DecisionTree': Pipeline(steps=[('normalization', StandardScaler()),
+                ('classifier', DecisionTreeClassifier())])}
+2024-05-02 01:24:32 INFO     -----> Load data 

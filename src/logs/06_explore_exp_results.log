@@ -1,0 +1,42 @@
+2024-05-01 11:17:59 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-01 11:17:59 INFO     -----> Load data 
+2024-05-01 11:18:02 INFO     -----> Data loaded in 2.7041146755218506 seconds = 0.04506857792536418 minutes ---
+2024-05-01 11:18:02 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-01 11:18:02 INFO     ======================= Predicting with: DecisionTree
+2024-05-01 11:18:02 INFO     ---> ---> Prediction time of DecisionTree is 0.6351332664489746 seconds = 0.010585554440816243 minutes ---
+2024-05-01 11:18:02 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
+2024-05-01 11:30:33 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-01 11:30:33 INFO     -----> Load data 
+2024-05-01 11:30:36 INFO     -----> Data loaded in 3.4866793155670166 seconds = 0.05811132192611694 minutes ---
+2024-05-01 11:30:36 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-01 11:30:36 INFO     ======================= Predicting with: DecisionTree
+2024-05-01 11:30:37 INFO     ---> ---> Prediction time of DecisionTree is 0.618166446685791 seconds = 0.01030277411142985 minutes ---
+2024-05-01 11:30:37 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
+2024-05-01 11:32:06 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-01 11:32:06 INFO     -----> Load data 
+2024-05-01 11:32:09 INFO     -----> Data loaded in 3.4504988193511963 seconds = 0.05750831365585327 minutes ---
+2024-05-01 11:32:09 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-01 11:32:09 INFO     ======================= Predicting with: DecisionTree
+2024-05-01 11:32:10 INFO     ---> ---> Prediction time of DecisionTree is 0.6340711116790771 seconds = 0.010567851861317952 minutes ---
+2024-05-01 11:32:10 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
+2024-05-01 11:37:04 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-01 11:37:04 INFO     -----> Load data 
+2024-05-01 11:37:07 INFO     -----> Data loaded in 2.718191623687744 seconds = 0.04530319372812907 minutes ---
+2024-05-01 11:37:07 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-01 11:37:07 INFO     ======================= Predicting with: DecisionTree
+2024-05-01 11:37:08 INFO     ---> ---> Prediction time of DecisionTree is 0.6308059692382812 seconds = 0.01051343282063802 minutes ---
+2024-05-01 11:37:08 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
+2024-05-01 11:57:46 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-01 11:57:46 INFO     -----> Load data 
+2024-05-01 11:57:49 INFO     -----> Data loaded in 2.908010721206665 seconds = 0.048466845353444414 minutes ---
+2024-05-01 11:57:49 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-01 11:57:49 INFO     ======================= Predicting with: DecisionTree
+2024-05-01 11:57:49 INFO     ---> ---> Prediction time of DecisionTree is 0.7231519222259521 seconds = 0.012052532037099202 minutes ---
+2024-05-01 11:57:50 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
+2024-05-02 01:26:06 WARNING  !!! This step takes about 3 min to complete !!!
+2024-05-02 01:26:06 INFO     -----> Load data 
+2024-05-02 01:26:10 INFO     -----> Data loaded in 3.4471797943115234 seconds = 0.057452996571858726 minutes ---
+2024-05-02 01:26:10 INFO     Model loaded: E:\machine-learning\datasets\iot23\4_experiments_v2\F14_S04_R_5_000_000//models\DecisionTree.pkl
+2024-05-02 01:26:10 INFO     ======================= Predicting with: DecisionTree
+2024-05-02 01:26:10 INFO     ---> ---> Prediction time of DecisionTree is 0.7380220890045166 seconds = 0.012300368150075276 minutes ---
+2024-05-02 01:26:11 INFO     ---> ---> Accuracy Score of DecisionTree: 0.99960225
